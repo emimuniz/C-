@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "nome": "Marta",
-    "sobrenome": "Maria",
-    "telefone": "123456",
-    "ra": 1
-  },
-  {
     "id": 2,
     "nome": "Paulo",
     "sobrenome": "Cruz",
@@ -36,9 +29,9 @@
   },
   {
     "id": 6,
-    "nome": "Alice",
+    "nome": "Alice ",
     "sobrenome": "Muniz",
-    "telefone": "15454",
+    "telefone": "44548",
     "ra": 6
   }
 ]
