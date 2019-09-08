@@ -1,0 +1,6 @@
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\bin\Debug\BLL.dll
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\bin\Debug\BLL.pdb
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\obj\Debug\BLL.dll
+C:\Users\muniz\Documents\EmiMuniz\Treinando\Asp.Net\CursoMvc\Mvc_BObjects\BLL\obj\Debug\BLL.pdb
