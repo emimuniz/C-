@@ -8,7 +8,7 @@ namespace BLL
 {
     public class Aluno
     {
-        //mapeando a entidade Aluno da camada Negocios
+        //mapeando a entidade Aluno modelo de dominio
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
